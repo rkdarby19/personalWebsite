@@ -1,3 +1,6 @@
+body {
+	background-color: #fcf5e5;
+}
 #poem {
 	display: flex;
 	justify-content:center;
