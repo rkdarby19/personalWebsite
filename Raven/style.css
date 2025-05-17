@@ -1,0 +1,16 @@
+#poem {
+	display: flex;
+	justify-content:center;
+	flex-wrap: wrap;
+	margin: auto;
+	width: 700px;
+	font-family: "Lucida Handwriting";
+	font-size: 20px;
+	padding: 15px;
+}
+p {
+	text-align: center;
+}
+h1 {
+	text-align: center;
+}
