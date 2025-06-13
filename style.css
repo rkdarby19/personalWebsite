@@ -4,3 +4,9 @@
 p:hover{
 	cursor: all-scroll;
 }
+#area2 {
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	width: 400px;
+}
