@@ -1,6 +1,10 @@
 body {
 	background-color: #fcf5e5;
 }
+nav {
+	position: absolute;
+	top: 10px;
+}
 #poem {
 	display: flex;
 	justify-content:center;
